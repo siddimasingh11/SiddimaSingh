@@ -20,7 +20,6 @@
 - ## Projects
 - 🌐 Personal Portfolio Website – A website introducing me, my skills, and my contact details.
 - 🤖 Workout Tracer App – Built using Google AI Studio.
-- 🤖 Chinese Master App– Built using Google AI Studio.
 
 ## Certifications
 - Google AI Essentials
